@@ -1,8 +1,19 @@
 hacerPan() {
 
+	Plantar el trigo
+	Cuidar la siembra
+	Cosechar el trigo
+	Hacer harina
+	Añadir agua y levadura
+	Hornear el Pan
+
 }
 
 hacerJamon() {
+
+	Criar los cerdos
+	Sacrificar los Cerdos
+	Hacer jamon
 
 }
 hacerCrema() {
