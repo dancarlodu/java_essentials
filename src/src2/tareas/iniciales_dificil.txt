@@ -12,3 +12,4 @@ $ ./iniciales_dificil
      1.  perfeccionen el algoritmo para hacer split y utilicen trim() 
      
         
+   da cardona Londoño   perez  Ramirez    yuca
