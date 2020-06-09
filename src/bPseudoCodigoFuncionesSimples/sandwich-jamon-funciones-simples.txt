@@ -18,16 +18,39 @@ hacerJamon() {
 }
 hacerCrema() {
 
+	Ordenaar la vaca
+	Hacer Crema
+
 }
 
 conseguirLechuga() {
+
+	Plantar la lechuga
+	Cuidar la siembra
+	Cosechar la lechuga
 
 }
 
 conseguirTomate() {
 
+	Plantar el tomate
+	Cuidar la siembra
+	Cosechar el tomate
+
 }
 
 prepararSandwich() {
+
+	Cortar el pan
+	Tomar dos rebanadas
+	Encontrar el cuchillo
+	Aplicar la crema
+	Limpiar el cuchillo
+	Lavar lechuga y tomate
+	Cortar lechuga y tomate
+	Poner una rebanada de jamón
+	Poner segundo pan encima
+	Encontrar plato
+	Poner sandwich en plato
 
 }
