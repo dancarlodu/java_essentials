@@ -13,7 +13,8 @@ public class botellas_agua {
 		
 		//Agregar función que force ingresar un número positivo
 		
-		System.out.println("Botellas: "+minutos*12);	
+		System.out.println("Botellas: "+minutos*12);		
+		
 
 	}
 
