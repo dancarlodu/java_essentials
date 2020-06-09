@@ -1,5 +1,5 @@
 numero_sandwiches = 0
-while(numero_sandwiches es menor que 10) {
+while(numero_sandwiches es menor que 20) {
      hacerSandwich();
      suma uno a numero_sandwiches
 }
