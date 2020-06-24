@@ -13,8 +13,15 @@ public class EsquetoCasoPrueba {
 		login ("frank", "sinatra");
 		crearCancion ("Guillermo Tell", 15, "01/01/1820", "mmmmmmmm");
 		borrarCancion ("Guillermo Tell", 1);
+		consultarCancion("Guillermo Tell");
+		
 
 
+	}
+
+	private static void consultarCancion(String titulo) {
+		// TODO Auto-generated method stub
+		
 	}
 
 	private static void borrarCancion(String titulo, int indice) {
@@ -28,7 +35,13 @@ public class EsquetoCasoPrueba {
 	}
 
 	private static void login(String usario, String contrasena) {
-		// TODO Auto-generated method stub
+		// Navegar a la página de songs by sinatra
+		
+		// Dar clic en la URL de login
+		
+		// Esperar a que aparezca los campos de usuario y password
+		
+		// Ingresar lo que venga en la variable usario en el campo username
 
 	}
 

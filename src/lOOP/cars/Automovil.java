@@ -14,7 +14,7 @@ public class Automovil {
 	
 	Automovil() {
 		marca = "Ford";
-		velocidadActual = 0.0;
+		velocidadActual = 10.0;
 		maximaVelocidad = 200.0;
 		tipoDeTransmision = "Manual";
 		numDePuertas = 2;

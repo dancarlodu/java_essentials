@@ -30,7 +30,7 @@ public class EjemploAnimales {
 		System.out.println("perrin:");
 		Perro perrin = new Perro();
 		perrin.setEdad(2);
-		perrin.setNombre("Firulais");
+		perrin.setNombre("Firulais PRU");
 		perrin.hablar();
 		perrin.volar();
 		perrin.moverse();
